@@ -7,7 +7,7 @@
     android:background="@color/background_main_activity"
     android:orientation="vertical"
     android:padding="8dp"
-    tools:context=".MainActivity">
+    tools:context=".view.MainActivity">
 
     <TextView
         android:id="@+id/textview_output"
